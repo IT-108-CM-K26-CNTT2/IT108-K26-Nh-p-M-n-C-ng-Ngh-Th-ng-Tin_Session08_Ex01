@@ -14,8 +14,12 @@ Chỉ ra 2 sai lầm trong tư duy của Nam về việc dùng file Word cho lư
 
 **Sai lầm trong tư duy của Nam về việc dùng file Word : **
   
-+ Khi file Word bị lỗi kí tự trong file sẽ dẫn đến việc không mở được file còn Markdown vẫn mở đươc
-+
++Nghĩ Word là văn bản thuần. Word tự đổi nháy thẳng " thành nháy cong “ ”, -- thành –, tự viết hoa, đổi thụt lề, nên mã chép vào dễ hỏng, không chạy được.
++Bỏ qua quản lý phiên bản và an toàn. .docx không diff/merge được trong Git, lại có thể chứa macro và metadata ẩn.
+
+Vì Nhẹ: văn bản thuần, chỉ vài KB.
+An toàn: không macro, không đối tượng nhúng, không metadata ẩn.
+Giữ nguyên mã trong khối ```, và Git diff/merge từng dòng dễ dàng.
 
 ### **Phần 2. Hoàn thiện:**
 
