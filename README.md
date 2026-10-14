@@ -20,3 +20,10 @@ Chỉ ra 2 sai lầm trong tư duy của Nam về việc dùng file Word cho lư
 ### **Phần 2. Hoàn thiện:**
 
 Sử dụng StackEdit để chuyển đổi một đoạn giới thiệu ngắn từ Word sang Markdown, đảm bảo file có định dạng .md.
+# Welcome to my porforlio!
+
+Hi! I'm Nguyen Thanh Phat I'm a student in PTIT-RIKKEI
+
+# Porforlio
+
+I have many project in github.You can get  **my git hub!** in this link [enter link description here](https://github.com/thanhphat365)
